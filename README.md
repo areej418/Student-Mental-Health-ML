@@ -15,7 +15,7 @@ This project predicts student depression levels using machine learning models su
 ## Dataset
 The dataset contains academic, lifestyle, and mental health indicators of students. Preprocessing includes handling missing values, normalization, and encoding.
 
-##Contact
+Contact:
 Areej Suleman
 📫 Email: areej987suleman@gmail.com
 🌐 GitHub: areej418
